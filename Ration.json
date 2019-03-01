@@ -1,0 +1,41 @@
+{
+
+    "Wallpapers":[
+         
+        
+        {
+            "name":"Wall 4",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall04.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall04.jpg",
+            "downloadable":true
+        },
+        
+        
+        {
+            "name":"Wall 3",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall03.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall03.jpg",
+            "downloadable":true
+        },       
+
+        
+        {
+            "name":"Wall 2",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall01.png",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall01.jpg",
+            "downloadable":true
+        },
+        
+           {
+            "name":"Wall 1",
+            "author":"InsWall",
+            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall02.png",
+            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall02.jpg",
+            "downloadable":true
+        }     
+        
+    ]
+}
