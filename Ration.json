@@ -1,13 +1,61 @@
 {
 
     "Wallpapers":[
-         
+        
+        
+                {
+            "name":"Wall 10",
+            "author":"InsWall",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_10.png",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_10.png",
+            "downloadable":true
+        },
+        
+                {
+            "name":"Wall 9",
+            "author":"InsWall",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_9.jpg.png",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_9.jpg.png",
+            "downloadable":true
+        },
+        
+                {
+            "name":"Wall 8",
+            "author":"InsWall",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_8.jpg",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_8.jpg",
+            "downloadable":true
+        },
+        
+                {
+            "name":"Wall 7",
+            "author":"InsWall",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_7.jpg",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_7.jpg",
+            "downloadable":true
+        },
+        
+                {
+            "name":"Wall 6",
+            "author":"InsWall",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_6.jpg",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_6.jpg",
+            "downloadable":true
+        },
+        
+                 {
+            "name":"Wall 5",
+            "author":"InsWall",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_5.jpg",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_5.jpg",
+            "downloadable":true
+        },
         
         {
             "name":"Wall 4",
             "author":"InsWall",
-            "url":"https://raw.githubusercontent.com/ninya-company/Ration/master/eeb73d0bfe25ae02bc41de21a08ce36e.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/ninya-company/Ration/master/eeb73d0bfe25ae02bc41de21a08ce36e.jpg",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_4.jpg",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_4.jpg",
             "downloadable":true
         },
         
@@ -15,8 +63,8 @@
         {
             "name":"Wall 3",
             "author":"InsWall",
-            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall03.jpg",
-            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall03.jpg",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_3.jpg",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_3.jpg",
             "downloadable":true
         },       
 
@@ -24,16 +72,16 @@
         {
             "name":"Wall 2",
             "author":"InsWall",
-            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall01.png",
-            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall01.jpg",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_2.png",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_2.png",
             "downloadable":true
         },
         
            {
             "name":"Wall 1",
             "author":"InsWall",
-            "url":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Wall02.png",
-            "thumbnail":"https://raw.githubusercontent.com/EdzonDM/Linebit/master/Preview/Wall02.jpg",
+            "url":"https://github.com/ninya-company/Ration/blob/master/WALL_1.png",
+            "thumbnail":"https://github.com/ninya-company/Ration/blob/master/WALL_1.png",
             "downloadable":true
         }     
         
